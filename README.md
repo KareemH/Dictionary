@@ -42,7 +42,7 @@ Simply type on the terminal line:
 
 	g++ -o pronounce pronounce.cpp
 
-Then, run the executable file 
+Then, run the executable file
 	
 	./pronounce
 
