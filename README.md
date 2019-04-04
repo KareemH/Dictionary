@@ -38,9 +38,9 @@ There are three components you should make sure you have installed:
 
 3. a good plain text editor (Gedit, Emacs, Vim, or Sublime Text) to write programs
 
-Simply type on the terminal line:
+Simply type on the terminal line (an ideal main.cpp file is provided, but feel free to create your own):
 
-	g++ -o pronounce pronounce.cpp
+	g++ -o pronounce Pronounce.cpp PronounceMain.cpp
 
 Then, run the executable file
 	
